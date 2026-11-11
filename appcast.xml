@@ -6,6 +6,15 @@
     <description>Blink updates</description>
     <language>en</language>
     <item>
+      <title>Blink 0.4</title>
+      <pubDate>Wed, 11 Nov 2026 13:32:03 GMT</pubDate>
+      <sparkle:version>4</sparkle:version>
+      <sparkle:shortVersionString>0.4</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<p>Blink now lives in a new home with a fresh app identity. Under-the-hood cleanup for a more reliable scan order across multiple displays.</p>]]></description>
+      <enclosure url="https://github.com/danielbalazs/Blink/releases/download/v0.4/Blink.zip" type="application/octet-stream" sparkle:edSignature="r0EpN9yzM7LHt2BPmKesx2BhlttAsvYzrx7Rm7tQ77xUI0oMVXieo98nTArnvFgzLzwI+0FYnU28gARu7umvCA==" length="1528808" />
+    </item>
+    <item>
       <title>Blink 0.3</title>
       <pubDate>Wed, 11 Nov 2026 13:07:03 GMT</pubDate>
       <sparkle:version>3</sparkle:version>
