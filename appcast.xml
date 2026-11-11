@@ -6,6 +6,15 @@
     <description>Blink updates</description>
     <language>en</language>
     <item>
+      <title>Blink 0.3</title>
+      <pubDate>Wed, 11 Nov 2026 13:07:03 GMT</pubDate>
+      <sparkle:version>3</sparkle:version>
+      <sparkle:shortVersionString>0.3</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<p>Small popover feedback under the menu bar icon, including when no QR code is found.</p>]]></description>
+      <enclosure url="https://github.com/danielbalazs/Blink/releases/download/v0.3/Blink.zip" type="application/octet-stream" sparkle:edSignature="aMu2w6o17W82WjYvFTOdENlInKbHh/oevHEmGk7+qxabP7HUiSC+wG/scsVSX0gKhqAV5v9tPcmRrv86AjQ8Cg==" length="1532260" />
+    </item>
+    <item>
       <title>Blink 0.2</title>
       <pubDate>Wed, 11 Nov 2026 12:52:02 GMT</pubDate>
       <sparkle:version>2</sparkle:version>
