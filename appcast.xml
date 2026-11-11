@@ -5,5 +5,14 @@
     <link>https://github.com/danielbalazs/Blink</link>
     <description>Blink updates</description>
     <language>en</language>
+    <item>
+      <title>Blink 0.1</title>
+      <pubDate>Wed, 11 Nov 2026 11:02:56 GMT</pubDate>
+      <sparkle:version>1</sparkle:version>
+      <sparkle:shortVersionString>0.1</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<p>First public preview of Blink: click the menu bar icon to open any QR code on your screen. Option-click to scan a selected area.</p>]]></description>
+      <enclosure url="https://github.com/danielbalazs/Blink/releases/download/v0.1/Blink.zip" type="application/octet-stream" sparkle:edSignature="vLAG2i9PnsZEIy6Yx9SGc2C0WLbUsIrpDC+H0k7Rcmkl933q8zGdMaNAbQQYvzfIvEaDAcp2iqd9fy0KprcgBg==" length="1377069" />
+    </item>
   </channel>
 </rss>
