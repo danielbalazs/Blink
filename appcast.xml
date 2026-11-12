@@ -6,6 +6,15 @@
     <description>Blink updates</description>
     <language>en</language>
     <item>
+      <title>Blink 0.5</title>
+      <pubDate>Thu, 12 Nov 2026 13:42:46 GMT</pubDate>
+      <sparkle:version>5</sparkle:version>
+      <sparkle:shortVersionString>0.5</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<p>Now signed and notarized by Apple, so it opens without the security warning.</p>]]></description>
+      <enclosure url="https://github.com/danielbalazs/Blink/releases/download/v0.5/Blink.zip" type="application/octet-stream" sparkle:edSignature="5h63fftmC9Od5p26kGG4JEkguP4lqJyfkxcSQJ0lhHT6w/DiMXv0UV1pV8tPpVefByMijuAeB1jrHgouaLIFDw==" length="1590470" />
+    </item>
+    <item>
       <title>Blink 0.4</title>
       <pubDate>Wed, 11 Nov 2026 13:32:03 GMT</pubDate>
       <sparkle:version>4</sparkle:version>
